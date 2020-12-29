@@ -1,0 +1,14 @@
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\bin\Debug\Login Screen UI.exe.config
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\bin\Debug\Login Screen UI.exe
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\bin\Debug\Login Screen UI.pdb
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\bin\Debug\Login Screen UI.xml
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\obj\Debug\Login Screen UI.vbprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\obj\Debug\Login_Screen_UI.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\obj\Debug\Login_Screen_UI.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\obj\Debug\Login Screen UI.vbproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\obj\Debug\Login Screen UI.vbproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\obj\Debug\Login Screen UI.vbproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\obj\Debug\Login Screen UI.exe
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\obj\Debug\Login Screen UI.xml
+D:\AW 17\Source Code Visual Studio 19\Login Screen UI\Login Screen UI\obj\Debug\Login Screen UI.pdb
