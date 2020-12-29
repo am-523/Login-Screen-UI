@@ -35,7 +35,7 @@ Login Screen UI</h3>
 
 
 ## Tutorial 📸
-- <a href="https://www.youtube.com/watch?v=e6rVPQqwRyU">
+- <a href="https://youtu.be/wpgtjDNT4hY">
 			Youtube
 		</a> 
 
